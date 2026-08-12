@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Notes AI",
+  "description": "Convert any YouTube video URL into structured executive notes and actionable summaries using Google Gemini 1.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

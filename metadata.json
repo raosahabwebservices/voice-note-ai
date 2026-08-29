@@ -1,0 +1,6 @@
+{
+  "name": "VoiceNotes AI",
+  "description": "An AI study companion that turns every student's lecture into notes, questions, flashcards, tests and exam revision automatically.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
